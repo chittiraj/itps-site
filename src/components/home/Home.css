@@ -1,0 +1,31 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: transparent;
+}
+.home img{
+    background-color: transparent;
+    align-items: center;
+    width: 55%;
+    margin: 0px 0px -30px 0px;
+    filter: drop-shadow(20px 30px 10px  rgba(0,0,0,.15));
+}
+.hometext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+}
+.hometext h6{
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.homespan{
+    color: blue;
+}
+.sidehr{
+    margin: 0 17px;
+    width: 10%;
+}

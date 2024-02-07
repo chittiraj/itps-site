@@ -1,0 +1,111 @@
+.sidebar{
+    border-radius: 20px;
+}
+.scrollbar {
+    overflow-x: auto; 
+    max-height: 593px; 
+    padding-right: 0px;
+  }
+::-webkit-scrollbar{
+    width: 0px;
+}
+.sidebar-menu{
+    margin: 10px 0px 0px 0px;
+}
+.sidebar-menu h2{
+    color:000000;
+    font-size: 40px;
+    padding: 0px 0px 0px 14px; 
+    margin-bottom: 5px !important;
+}
+.sidebar-menu h4{
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0px auto 0px 0px;
+    padding: 0px 95px 0px 0px ;
+    background-color: transparent;
+    cursor: pointer;
+}
+.sidebar-menu-child{
+    margin: 12px 0px;
+}
+button.d-flex.flex-row {
+    display: flex;
+    justify-content: space-between;
+    border:none;
+    border-radius: 13px;
+    background-color: white;
+    align-items: center;
+    width: 97%; 
+    padding: 6px 18px;
+    margin: 3px 0px;
+}
+.sidebar-menu-child h1{
+    font-size: 25px;
+
+    padding: 0px 8px 0px 0px; 
+    margin-bottom: 0px !important;
+}
+.sidebar-menu-child button:hover h1 {
+    background-color: transparent !important;
+    color: black;
+  }
+  .sidebar-menu-child button:hover h1 img {
+    filter: invert(1); 
+  }
+
+button.d-flex.flex-row h5 {
+    margin: 0; 
+    margin-right: auto; 
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+button.d-flex.flex-row span {
+    background-color: transparent;
+    color: black;
+    margin-left: auto; 
+}
+button.d-flex.flex-row:hover span{
+    color: black;
+}
+
+.sidebar-menu-child button:hover{
+    background-color: rgb(240,240,240);
+    color: black;
+}
+.sidebar-menu ul li:hover{
+    color: black;
+}
+.sidebar-menu ul li{
+    background-color: transparent;
+    list-style: none;
+}
+.sidebar-menu ul{
+    margin: 3px -30px;
+}
+.sidebar-menu li{
+    background-color: transparent;
+    margin: 0px;
+    width: 86%;
+    border-radius: 13px;
+}
+.buttonmenu{
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0.5rem 2rem;
+    margin: 0;
+    border: none;
+    background-color: transparent;
+    color: rgb(105,105,105);
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .buttonmenu:hover {
+    background-color: rgb(240,240,240); 
+    border-radius: 10px;
+    color: black;
+ }  

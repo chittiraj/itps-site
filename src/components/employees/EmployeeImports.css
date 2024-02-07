@@ -1,0 +1,99 @@
+.importhead{
+    margin: 0px 40px;
+}
+.importstop{
+    margin: 0px 0px 40px 0px;
+}
+.importstop h5{
+    font-weight: 600;
+}
+.importdate{
+    margin: 0px 0px 20px 0px;
+}
+.importdate h6{
+    font-weight:600;
+}
+.importdate span{
+    color: red;
+}
+.importinput {
+    width: 30%;
+    margin: 15px 0px 0px 0px;
+    border: none;
+    outline: none;
+    background-color: rgb(240,240,240);
+}
+.importline{
+    margin-top: 1px;
+    width: 30%;
+}
+.importfile h6{
+    font-weight: 600;
+    margin: 0px 0px 30px 0px;
+}
+.importfile span{
+    color: red;
+}
+.importfile button{
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: black;
+    color: white;
+    width: 60%;
+    height: 5vh;
+}
+.importfile button:hover{
+    background-color: green;
+    color: white;
+}
+.importfileinput{
+    width: 30%;
+    border: none;
+    outline: none;
+    background-color: rgb(240,240,240);
+}
+.importformat   {
+    margin: 20px 0px 10px 0px !important;
+}
+.importformat h6{
+    font-weight: 600;
+}
+.importformat img{
+    width: 20%;
+}
+.importformat button{
+    color: #FE0000;
+    width: 40%;
+    margin: -20px 0px 0px 2px;
+    border: none;
+
+}
+.importfooter{
+    margin: 30px 0px 30px 0px ;
+    gap: 53px;
+    
+}
+.importcancel button {
+    border: 1px solid #FE0000;
+    border-radius: 4px;
+    background-color:#FE0000 ;
+    color: white;
+    width: 130%;
+    height: 6vh;   
+}
+.impportrest button {
+    border: 1px solid orange;
+    border-radius: 4px;
+    background-color:orange ;
+    color: white;
+    width: 130%;
+    height: 6vh;   
+}
+.importimport button {
+    border: 1px solid darkblue;
+    border-radius: 4px;
+    background-color:darkblue ;
+    color: white;
+    width: 130%;
+    height: 6vh;   
+}

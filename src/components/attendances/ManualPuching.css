@@ -1,0 +1,112 @@
+.manualhead{
+    margin: 0px 0px 20px 0px;
+}
+.manualchild{
+    margin: 0px 0px 30px 0px ;
+}
+.manualchild h5{
+    font-weight: 600;
+}
+.manualchild p{
+    margin: 0px 5px;
+}
+.manualhead button{
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    width: 100%;
+    margin: 5px 10px;
+    height: 6vh;
+
+}
+.manualhead button:hover{
+    color: white;
+    border: 1px solid green;
+    background-color: green;
+}
+.manualdataform{
+    margin: 0px 0px 30px 0px ;
+}
+.manualdataform h6{
+    font-weight: 530;
+}
+.manualinput{
+    width: 50%;
+    border: none;
+    outline: none;
+    background-color: rgb(240,240,240);
+}
+.manualline{
+    margin-top: 1px;
+    width: 80%;
+}
+.manualdataupto h6{
+    font-weight: 530;
+}
+.manualdatabutton button{
+    margin: 0px 0px 0px 0px ;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 8px ;
+    width: 20%;
+}
+.manualshow h6{
+    font-weight: 600;
+}
+.manualshow span{
+    margin: 0px 10px;
+}
+.manualsearch h6{
+    margin: 6px 0px 0px 0px  ;
+    font-weight: 200;
+}
+.manualdreachdata input{
+    width: 80%;
+    margin: 0px 0px 0px 0px;
+    border: none;
+    outline: none;
+    background-color: rgb(240,240,240);
+}
+.manualdreachdata hr{
+    margin-top: 1px;
+    width: 80%;
+}
+.manualbutton-container {
+    padding: 0;
+    display: inline-block;
+}
+.manualbutton-img {
+    width: 17px; 
+    height: 17px;
+    filter: invert(97%) sepia(6%) saturate(7206%) hue-rotate(295deg) brightness(130%) contrast(145%);
+}
+.manualbuttonedit {
+    border: 1px solid green;
+    background-color: green !important;
+    border-radius: 50%;
+    width: 31px;
+    height: 31px;
+    background: none;
+    cursor: pointer;
+    margin-right: 10px; 
+}
+.manualbutton-img1 {
+    margin: 1px 2px 0px -4px;
+    width: 28px; 
+    height: 28px;
+    filter: invert(97%) sepia(6%) saturate(7206%) hue-rotate(295deg) brightness(130%) contrast(145%);
+}
+.manualbuttonedelete {
+    border: 1px solid red;
+    background-color: red !important;
+    border-radius: 50%;
+    width: 31px;
+    height: 31px;
+    background: none;
+    cursor: pointer;
+    margin-right: 10px; 
+}
+

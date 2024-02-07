@@ -1,0 +1,46 @@
+.pay-select{
+    border: none;
+    width: 75%;
+    outline: none;
+    padding: 0px 0px;
+}
+.payslipline{
+    margin-bottom: 2px;
+    margin-top: 1px;
+    width: 75%;
+}
+.payslipdatabutton button{
+    margin: 0px 0px 0px 0px ;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 8px ;
+    width: 73%;
+}
+.Pdfdatabutton button{
+    margin: 0px 0px 0px 0px ;
+    border: 1px solid #61677A;
+    background-color: #61677A;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 8px ;
+    width: 73%;
+}
+.Pdfdatabutton button:hover{
+    border: 1px solid black;
+    background-color: black;
+}
+.printdatabutton button{
+    margin: 0px 0px 0px 0px ;
+    border: 1px solid #61677A;
+    background-color: #61677A;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 8px ;
+    width: 70%;
+}
+.printdatabutton button:hover{
+    border: 1px solid black;
+    background-color: black;
+}

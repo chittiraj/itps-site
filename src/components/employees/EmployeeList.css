@@ -1,0 +1,32 @@
+.table{
+    --bs-table-bg: none !important;
+}
+.thead tr{
+    text-align: center;
+}
+.tbody tr{
+    text-align: center;
+}
+.tphoto{
+    width: 41%;
+    margin: 0px -68px 0px -72px;
+    background-color: transparent;
+}
+.gender{
+    margin: 0 auto;
+    margin-bottom: 0;
+    border: 1px solid blue;
+    width: 45%;
+    align-items: center;
+    background-color: blue;
+    border-radius: 7px;
+    color: balc;
+    color: white;
+    font-size: 96%;
+}
+.remarks{
+    margin: 0 auto;
+    border: 1px solid orange;
+    border-radius: 6px;
+    padding: 4px 0px;
+}

@@ -1,0 +1,29 @@
+.process-select{
+    border: none;
+    width: 75%;
+    outline: none;
+    padding: 0px 0px;
+}
+.processline{
+    margin-bottom: 2px;
+    margin-top: 1px;
+    width: 75%;
+}
+.processbutton button{
+    margin: 0px 0px 0px 0px ;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 8px ;
+    width: 50%;
+}
+.processhead{
+    margin: 0px 0px 20px 0px;
+}
+.processchild{
+    margin: 40px 0px 30px 0px ;
+}
+.processchild h5{
+    font-weight: 600;
+}

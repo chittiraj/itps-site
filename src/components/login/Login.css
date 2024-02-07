@@ -1,0 +1,36 @@
+.loginimage{
+    width: 35%;
+    height: 70px;
+    margin: -25px 0px 0px -60px !important;
+}
+.face button{
+    font-size: medium;
+    font-weight: 600;
+    align-items: center;
+    color: white;
+    padding: 10px 45px 10px 45px;
+    margin-right: 30px;
+    border-radius: 13px;
+    justify-content: center;
+    background-color: black;
+}
+.btn-close{
+    --bs-btn-close-focus-shadow: 0 0 0 0.25rem rgb(212,57,35) !important;
+}
+.login h2{
+    font-weight: 600;
+}
+.form label {
+    text-align: start !important;
+} 
+.login button{
+    font-size: medium;
+    font-weight: 600;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    margin: 0px 20px 0px 20px;
+    border-radius: 13px;
+    justify-content: center;
+    justify-items: center;
+    background-color: black;
+}

@@ -1,0 +1,41 @@
+.center h5{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: small;
+    color: rgb(128,139,254);
+    border-radius: 30px;
+    border: 1px solid rgb(255,224,249);
+    background-color: rgb(255,224,249);
+    text-align: start;
+    justify-content: start;
+    margin: 130px 200px 33px 60px  !important;
+    padding: 10px 30px 10px 45px ;
+}
+.center h1{
+    /* display: grid;
+    justify-content: center;
+    align-items: center; */
+    font-family: 'Inter', sans-serif;
+    text-align: start;
+    font-weight: 650;
+    font-size: 340%;
+    line-height: 1.1;
+    margin: 0px 0px 30px 70px;
+}
+.center p{
+    font-family: 'Inter', sans-serif;
+    font-size: medium;
+    font-weight: 400;
+    color: rgb(144,144,144);
+    text-align: start;
+    margin: 0px 0px 0px 70px;
+}
+.center img {
+    margin: 0px 0px 0px 15px;
+    width: 225%;
+    height: 85vh;
+    filter: drop-shadow(10px 30px 10px  rgba(0,0,0,.15));
+    max-width: none;
+    background-color: transparent;
+    
+}

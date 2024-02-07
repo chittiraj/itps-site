@@ -1,0 +1,114 @@
+.dashbread{
+    background-color: transparent;
+    padding: 20px 20px 10px 20px ;
+}
+.dashcard{
+    background-image: linear-gradient(to bottom right,#FE7A36,#FF9843,#F05941);
+    border-radius: 8px;
+    padding: 20px 20px;
+    width: 32%;
+    height: 22vh;
+}
+.dashcard p{
+    margin: 10px auto;
+    width: 20%;
+    text-align: center;
+    font-size: 130%;
+    font-weight: 650;
+    background-color: transparent !important;
+}
+.dashcard1{
+    background-image: linear-gradient(to bottom right, #40A2E3, #40A2D8,#3652AD);
+    border-radius: 8px;
+    padding: 20px 20px;
+    width: 32%;
+    height: 22vh;
+}
+.dashcard1 p{
+    margin: 10px auto;
+    width: 20%;
+    text-align: center;
+    font-size: 130%;
+    font-weight: 650;
+    background-color: transparent !important;
+}
+.dashcard2{
+    background-image: linear-gradient(to bottom right, #03C988,#0D9276);
+    border-radius: 8px;
+    padding: 20px 20px;
+    width: 32%;
+    height: 22vh;
+}
+.dashcard2 p{
+    margin: 10px auto;
+    width: 20%;
+    text-align: center;
+    font-size: 130%;
+    font-weight: 650;
+    background-color: transparent !important;
+
+}
+.dashcard h4{
+    position: relative;
+    font-weight: 500;
+    background-color: transparent !important;
+}
+.dashcard1 h4{
+    position: relative;
+    font-weight: 500;
+    background-color: transparent !important;
+}
+
+.dashcard2 h4{
+    position: relative;
+    font-weight: 500;
+    background-color: transparent !important;
+}
+
+
+.dashphoto{ 
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.dashphoto img{
+    position: absolute;
+    width: 7%;
+    margin-right: -147px;
+    top: 220px;
+    background-color: transparent !important;
+}
+.progress{
+    position: relative;
+    margin: 10px 0px ;
+}
+.dashdep h4{
+    font-size: larger;
+    font-weight: 600;
+    padding: 40px 0px 30px 0px;
+}
+.dashdep h5{
+    color: white;
+    font-weight: 550;
+    margin: 20px 0px 10px 0px;
+    background-color: transparent;
+}
+.dashline{
+    color: white;
+    width: 100%;
+    margin: 0 auto;
+}
+.dashdep h6{
+    color: white;
+    margin: 20px 0px;
+    background-color: transparent;
+}
+.dashdepchild{
+    background-image: linear-gradient(to bottom, #000000,#002B5B);
+    
+    width: 20%;
+    height: 20vh;
+    margin: 0px 20px 20px 20px;
+    border: 1px solid ;
+    border-radius: 15px;
+}

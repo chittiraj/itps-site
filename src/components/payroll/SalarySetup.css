@@ -1,0 +1,19 @@
+.salarysetdown{
+    margin: 15px 0px 25px 0px;
+}
+
+.set-select{
+    border: none;
+    width:80%;
+    outline: none;
+    padding: 0px 0px;
+}
+.setchild{
+    margin: 20px 20px 30px  20px;
+}
+.setinput{
+    background-color: rgb(240,240,240);
+    border-style: none;
+    border: none;
+    outline: none;
+}
