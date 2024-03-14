@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itps-site/static/css/main.3eca660e.css",
+    "main.js": "/itps-site/static/js/main.de505d36.js",
+    "static/js/592.da270747.chunk.js": "/itps-site/static/js/592.da270747.chunk.js",
+    "index.html": "/itps-site/index.html",
+    "main.3eca660e.css.map": "/itps-site/static/css/main.3eca660e.css.map",
+    "main.de505d36.js.map": "/itps-site/static/js/main.de505d36.js.map",
+    "592.da270747.chunk.js.map": "/itps-site/static/js/592.da270747.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eca660e.css",
+    "static/js/main.de505d36.js"
+  ]
+}
